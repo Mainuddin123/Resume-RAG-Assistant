@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+.streamlit/secrets.toml
+
+vectorstore/
+
+data/*.pdf
+data/*.docx
+data/*.txt
+data/*.md
